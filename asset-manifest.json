@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/github.io/weather/static/css/main.968d2b7d.chunk.css",
-    "main.js": "/github.io/weather/static/js/main.65a8bb2c.chunk.js",
-    "main.js.map": "/github.io/weather/static/js/main.65a8bb2c.chunk.js.map",
-    "runtime-main.js": "/github.io/weather/static/js/runtime-main.4ca75784.js",
-    "runtime-main.js.map": "/github.io/weather/static/js/runtime-main.4ca75784.js.map",
-    "static/js/2.2f4bfb77.chunk.js": "/github.io/weather/static/js/2.2f4bfb77.chunk.js",
-    "static/js/2.2f4bfb77.chunk.js.map": "/github.io/weather/static/js/2.2f4bfb77.chunk.js.map",
-    "index.html": "/github.io/weather/index.html",
-    "precache-manifest.48d9ffa5fd811fbd8c2668559e9c43e2.js": "/github.io/weather/precache-manifest.48d9ffa5fd811fbd8c2668559e9c43e2.js",
-    "service-worker.js": "/github.io/weather/service-worker.js",
-    "static/css/main.968d2b7d.chunk.css.map": "/github.io/weather/static/css/main.968d2b7d.chunk.css.map",
-    "static/js/2.2f4bfb77.chunk.js.LICENSE.txt": "/github.io/weather/static/js/2.2f4bfb77.chunk.js.LICENSE.txt"
+    "main.css": "/weather/static/css/main.968d2b7d.chunk.css",
+    "main.js": "/weather/static/js/main.64406334.chunk.js",
+    "main.js.map": "/weather/static/js/main.64406334.chunk.js.map",
+    "runtime-main.js": "/weather/static/js/runtime-main.6951ad2e.js",
+    "runtime-main.js.map": "/weather/static/js/runtime-main.6951ad2e.js.map",
+    "static/js/2.2f4bfb77.chunk.js": "/weather/static/js/2.2f4bfb77.chunk.js",
+    "static/js/2.2f4bfb77.chunk.js.map": "/weather/static/js/2.2f4bfb77.chunk.js.map",
+    "index.html": "/weather/index.html",
+    "precache-manifest.e96b99e8d37016dbedf9b5dded31ce31.js": "/weather/precache-manifest.e96b99e8d37016dbedf9b5dded31ce31.js",
+    "service-worker.js": "/weather/service-worker.js",
+    "static/css/main.968d2b7d.chunk.css.map": "/weather/static/css/main.968d2b7d.chunk.css.map",
+    "static/js/2.2f4bfb77.chunk.js.LICENSE.txt": "/weather/static/js/2.2f4bfb77.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.4ca75784.js",
+    "static/js/runtime-main.6951ad2e.js",
     "static/js/2.2f4bfb77.chunk.js",
     "static/css/main.968d2b7d.chunk.css",
-    "static/js/main.65a8bb2c.chunk.js"
+    "static/js/main.64406334.chunk.js"
   ]
 }
